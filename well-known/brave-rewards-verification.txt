@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: michaelcantara.netlify.com
-Token: 7bb471cd132d368f16cfb8c6aad7fe72bc733a77682e80b8800df88e8a5886cc
