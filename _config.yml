@@ -6,15 +6,12 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: https://blissful-lumiere-465ac8.netlify.com/
+baseurl: https://michaelcantara.netlify.com/
 
 # Website info
 title: Michael Angelo Cantara
 description: Talks about anime, gaming, poem, short stories, and interesting things
 cover: assets/images/blog-cover.jpg
-logo: 
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
 production_url: https://jekyller.github.io/jasper2/
 source_url: https://github.com/jekyller/jasper2/
 CNAME: #add cname for website to be created
@@ -33,8 +30,8 @@ disqus_shortname: jekyller # replace with your disqus username
 
 # Permalinks
 permalink: /:title
-# permalink: /author/:author
-# permalink: /tag/:tag
+permalink: /author/:author
+permalink: /tag/:tag
 
 # Authors' info in `_data/authors.yml`
 # Tags' info in `_data/tags_info.yml`
