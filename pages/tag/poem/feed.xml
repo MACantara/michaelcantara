@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
   <link href="http://localhost:4000/tag/poem/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-06-05T22:32:17+08:00</updated>
+  <updated>2019-06-05T22:34:41+08:00</updated>
   <id>http://localhost:4000/tag/poem/feed.xml</id>
 
   
@@ -49,20 +49,20 @@
       <published>2019-05-19T18:18:00+08:00</published>
       <updated>2019-05-19T18:18:00+08:00</updated>
       <id>http://localhost:4000/friendly-silence</id>
-      <content type="html" xml:base="http://localhost:4000/friendly-silence">&lt;p&gt;A nice friend to have\
+      <content type="html" xml:base="http://localhost:4000/friendly-silence">A nice friend to have\
 Yet difficult to please.\
 Always beside me\
-but always silent.&lt;/p&gt;
+but always silent.
 
-&lt;p&gt;Cheering on great days\
+Cheering on great days\
 With silence of joy\
 Helping through my life,\
-A friend that stays.&lt;/p&gt;
+A friend that stays.
 
-&lt;p&gt;I wonder the days of joy\
+I wonder the days of joy\
 Of my little friend,\
 I wonder my life\
-Without you.&lt;/p&gt;</content>
+Without you.</content>
 
       
       
