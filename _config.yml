@@ -63,13 +63,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
-repo: jasper2
+username: micmix03
+repo: michaelcantara
 branch: master
 relative_source: ../michaelcantara/
 destination: ../michaelcantara/pages/
-production_url:  https://jekyller.github.io/jasper2/
-source_url:  https://github.com/jekyller/jasper2/
+production_url:  https://michaelcantara.netlify.com
+source_url:  https://github.com/Micmix03/michaelcantara
 
 exclude:
   - assets/css
