@@ -63,8 +63,8 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
-repo: jasper2
+username: micmix03
+repo: michaelcantara
 branch: master
 relative_source: ../michaelcantara/
 destination: ../michaelcantara/pages/
