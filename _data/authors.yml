@@ -1,12 +1,11 @@
-ghost:
-  username: ghost
-  name: Ghost
-  url_full: http://jekyller.github.io/jasper2/
-  url: jekyller.github.io/jasper2
-  bio: The professional publishing platform
-  picture: assets/images/ghost.png
+michael:
+  username: michael
+  name: Michael Angelo Cantara
+  location: Cavite, Philippines
+  bio: Talks about anime, gaming, poem, short stories, and interesting things. 
+  picture: assets/images/michael.png
   facebook: ghost
-  twitter: tryghost
+  twitter: CursedGamer03
   cover: False
 hannah:
   username: hannah
