@@ -67,7 +67,7 @@ username: Micmix03
 repo: michaelcantara
 branch: master
 relative_source: ../michaelcantara/
-destination: ../michaelcantara/pages/
+destination: ../michaelcantara/_site
 production_url:  https://michaelcantara.netlify.com
 source_url:  https://github.com/Micmix03/michaelcantara
 
