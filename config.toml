@@ -2,7 +2,7 @@ baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
-paginate        = 6
+paginate        = 10
 #SectionPagesMenu = "main"
 canonifyurls    = true
 
