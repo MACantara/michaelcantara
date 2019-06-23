@@ -3,7 +3,7 @@ date: 2014-03-10
 nomenu:
   main:
     parent: poem
-title: Friendly Silence
+title: Migrating from Jekyll
 image: img/team.jpg
 ---
 
