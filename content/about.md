@@ -8,8 +8,8 @@ title: "About"
 type: "page"
 menu: main
 weight: 111
-cover: "img/michael.jpeg"
 ---
+
 Hello there!	
 
  My name is Michael Angelo Cantara.	
