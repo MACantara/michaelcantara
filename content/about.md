@@ -1,15 +1,15 @@
-+++
-comments = false
-date = "2019-06-09T22:17:00+00:00"
-draft = false
-noauthor = true
-share = false
-title = "About"
-type = "page"
-[menu.main]
-weight = 111
-
-+++
+---
+comments: false
+date: "2019-06-09T22:17:00+00:00"
+draft: false
+noauthor: true
+share: false
+title: "About"
+type: "page"
+menu: main
+weight: 111
+cover: "img/michael.jpeg"
+---
 Hello there!	
 
  My name is Michael Angelo Cantara.	
