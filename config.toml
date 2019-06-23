@@ -1,0 +1,49 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
+
+[params]
+  title       = "Michael Angelo Cantara"
+  subtitle    = "Talks about anime, gaming, poem, short stories, and interesting things"
+  copyright   = "© 2019"
+
+  cover       = "img/blog-cover.jpg"
+  description = "Talks about anime, gaming, poem, short stories, and interesting things"
+  metaDescription = "Talks about anime, gaming, poem, short stories, and interesting things"
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "CursedGamer03"
+  githubName = "micmix03"
+
+  showSupport = true
+
+  author = "Michael Angelo Cantara"
+  authorAvatar = "img/michael.jpeg"
+  authorLocation = "Cavite, PH"
+  authorWebsite = "https://michaelcantara.netlify.com"
+  authorDescription = "Talks about anime, gaming, poem, short stories, and interesting things"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 99
+
+
