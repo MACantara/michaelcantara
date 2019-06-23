@@ -1,6 +1,5 @@
 +++
 title = "Getting Started with Hugo"
-description = ""
 tags = [
     "go",
     "golang",
@@ -12,7 +11,6 @@ categories = [
     "Development",
     "golang",
 ]
-nomenu = "main"
 image= "img/tags.jpg"
 +++
 
