@@ -1,6 +1,5 @@
 +++
 title = "(Hu)go Template Primer"
-description = "This is a description. Hugo uses the **excellent** go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic."
 tags = [
     "go",
     "golang",
@@ -8,13 +7,12 @@ tags = [
     "themes",
     "development",
 ]
-date = "2014-04-02"
 categories = [
     "Development",
     "golang",
 ]
-nomenu = "main"
-image= "img/writing.jpg"
+date = "2014-04-02"
+image = "img/writing.jpg"
 +++
 
 Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for
