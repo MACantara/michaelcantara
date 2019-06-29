@@ -6,7 +6,7 @@ extension: toml
 
 format: 
   toml-frontmatter: true
-  frontmatter_delimiter: [""]
+  frontmatter_delimiter: []
 
 backend:
   name: git-gateway
