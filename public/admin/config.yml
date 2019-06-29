@@ -2,7 +2,7 @@ site_url: https://www.michaelcantara.netlify.com
 
 show_preview_links: true
 
-extension: yaml
+extension: yaml-frontmatter
 
 backend:
   name: git-gateway
