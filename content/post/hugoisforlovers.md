@@ -2,8 +2,8 @@
 date: "2014-06-02"
 title: "Getting Started with Hugo"
 image: "img/tags.jpg"
-categories: "Technology"
-tags: "Technology"
+categories: ["Technology"]
+tags: ["Technology"]
 ---
 
 ## Step 1. Install Hugo

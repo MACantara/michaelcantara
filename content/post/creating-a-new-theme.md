@@ -2,8 +2,8 @@
 date: 2014-09-28
 title: Creating a New Theme
 image: img/welcome.jpg
-categories: "Technology"
-tags: "Technology"
+categories: ["Technology"]
+tags: ["Technology"]
 ---
 
 
