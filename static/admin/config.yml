@@ -4,7 +4,9 @@ show_preview_links: true
 
 extension: toml
 
-format: toml-frontmatter
+format: 
+  toml-frontmatter: true
+  frontmatter_delimiter: [""]
 
 backend:
   name: git-gateway
