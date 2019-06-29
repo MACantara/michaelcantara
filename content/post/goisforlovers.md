@@ -2,11 +2,8 @@
 date: "2014-04-02"
 title: "(Hu)go Template Primer"
 image: "img/writing.jpg"
-categories:
-- Technology
-
-tags: 
-- Technology
+categories: "Technology"
+tags: "Technology"
 ---
 
 Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for

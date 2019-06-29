@@ -2,11 +2,8 @@
 date: 2014-03-10	
 title: Migrating from Jekyll
 image: img/team.jpg
-categories:
-- Technology
-
-tags: 
-- Technology
+categories: "Technology"
+tags: "Technology"
 ---
 
 ## Move static content to `static`
