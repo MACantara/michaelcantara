@@ -2,9 +2,9 @@ site_url: https://www.michaelcantara.netlify.com
 
 show_preview_links: true
 
-extension: toml-frontmatter
+extension: toml
 
-format: toml
+format: toml-frontmatter
 
 backend:
   name: git-gateway
