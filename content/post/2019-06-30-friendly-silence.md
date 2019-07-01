@@ -3,6 +3,7 @@ title: Friendly Silence
 date: 2019-06-30T04:41:49.425Z
 image: /img/friendlysilence.jpg
 categories: Poem
+description: A poem of a certain silence.
 ---
 Friendly Silence\
 A nice friend to have\
